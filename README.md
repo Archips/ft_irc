@@ -2,6 +2,10 @@
 
 The "ircserv" project involves the development of an IRC (Internet Relay Chat) server using C++ 98. This server is designed to accept incoming connections on a specified port and requires a password for client authentication. Its primary goal is to replicate the functionality of an IRC server, allowing clients to authenticate, set nicknames, join channels, send and receive private messages, and perform channel-specific operations. The server should be non-blocking, supporting multiple simultaneous clients and efficient I/O operations using polling or equivalent mechanisms.
 
+## Score
+
+-  125%
+
 ## Project Highlights:
 - Developed in C++ 98, focusing on creating a functional IRC server.
 - Supports client authentication with a password.
